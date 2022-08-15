@@ -15,3 +15,7 @@ The judging criteria are:
 - Coherence (30%): Is the analysis coherent and aligned with the problem statement declared?
 - Aesthetics (20%): Does the storytelling look good, and does the deck have aesthetic appeal?
 - Technical execution (20%): Did the analysis involve doing a deep dive, or just surface-level analyses? 
+
+Please refer to the PDF for my analysis
+
+Feedbacks for improvement are welcome! 
