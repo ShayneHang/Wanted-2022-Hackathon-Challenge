@@ -1,6 +1,6 @@
-# Wanted-2022-Hackathon-24 hours Challenge 
+# Wanted 2022 Hackathon 24-hours Challenge 
 
-This is a 1-day data analytical challenge organised by [Wanted](https://www.wanted.jobs/) in collaboration with [Tribe](https://tribex.co/) from 12 to 13 August 2022.
+This is a 1-day data analytical [challenge](https://www.wanted.jobs/events/coderswantedxtribe?utm_source=email&utm_medium=braze_global&utm_campaign=global_coderswantedxtribe) organised by [Wanted](https://www.wanted.jobs/) in collaboration with [Tribe](https://tribex.co/) from 12 to 13 August 2022.
 
 Participants were given a dataset to analyse, they then have to choose one out of the four tracks below to base their report and submit in powerpoint format, everything be completed within 24hours. 
 
